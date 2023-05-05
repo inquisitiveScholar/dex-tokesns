@@ -28,7 +28,7 @@
     {
       "name": "USDT",
       "address": "0xce69bb3927Cd7f3731bD82734b9991E1E3dE0a03",
-      "symbol": "zUSDT",
+      "symbol": "USDT",
       "decimals": 18,
       "chainId": 3636,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xce69bb3927Cd7f3731bD82734b9991E1E3dE0a03.png"
@@ -38,7 +38,7 @@
     {
       "name": "ETH",
       "address": "0xFaF893D2f71a3e68453c908f4236605caA848961",
-      "symbol": "zETH",
+      "symbol": "ETH",
       "decimals": 18,
       "chainId": 3636,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xFaF893D2f71a3e68453c908f4236605caA848961.png"
@@ -46,7 +46,7 @@
     {
       "name": "BNB",
       "address": "0x0041DB9E06580f68041eb4F2cd3E1E1C79e83F47",
-      "symbol": "zBNB",
+      "symbol": "BNB",
       "decimals": 18,
       "chainId": 3636,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x0041DB9E06580f68041eb4F2cd3E1E1C79e83F47.png"
@@ -55,7 +55,7 @@
     {
       "name": "MATIC",
       "address": "0x2eF208d3Fea7fDb3b8c6037CA19fB6dE54712D5F",
-      "symbol": "zMATIC",
+      "symbol": "MATIC",
       "decimals": 18,
       "chainId": 3636,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x2eF208d3Fea7fDb3b8c6037CA19fB6dE54712D5F.png"
