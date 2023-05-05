@@ -1,5 +1,5 @@
 {
-  "name": "Mainnetz List",
+  "name": "Tyco List",
   "timestamp": "2023-01-21T23:57:10.982Z",
   "version": {
     "major": 2,
@@ -15,12 +15,12 @@
   "tokens": [
 
     {
-      "chainId": 2016,
-      "address": "0xD7b21500dFf3D5578B21EBf7F25Be806087559a7",
-      "name": "WNETZ",
-      "symbol": "WNETZ",
+      "chainId": 3636,
+      "address": "0x689ADB8f7428A4914D2f6eB7377d45d2ea7038c6",
+      "name": "WTYCO",
+      "symbol": "WTYCO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xD7b21500dFf3D5578B21EBf7F25Be806087559a7.png"
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x689ADB8f7428A4914D2f6eB7377d45d2ea7038c6.png"
     },
 
     {
@@ -28,44 +28,44 @@
       "address": "0x94703490aCA489f63FFB71C4d4Cc2E616bd8d14a",
       "symbol": "zUSDC",
       "decimals": 18,
-      "chainId": 2016,
+      "chainId": 3636,
       "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x94703490aCA489f63FFB71C4d4Cc2E616bd8d14a.png"
     },
 
     {
       "name": "USDT",
-      "address": "0x5196Bf2C662970D44AfeC4893851b998E5fBCBF5",
+      "address": "0xce69bb3927Cd7f3731bD82734b9991E1E3dE0a03",
       "symbol": "zUSDT",
       "decimals": 18,
-      "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x5196Bf2C662970D44AfeC4893851b998E5fBCBF5.png"
+      "chainId": 3636,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xce69bb3927Cd7f3731bD82734b9991E1E3dE0a03.png"
     },
 
 
     {
       "name": "ETH",
-      "address": "0x7b4f9D9E0fB7E44C77903eF3e44165A74B6204ff",
+      "address": "0xFaF893D2f71a3e68453c908f4236605caA848961",
       "symbol": "zETH",
       "decimals": 18,
-      "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x7b4f9D9E0fB7E44C77903eF3e44165A74B6204ff.png"
+      "chainId": 3636,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xFaF893D2f71a3e68453c908f4236605caA848961.png"
     },
     {
       "name": "BNB",
-      "address": "0x8573ab917b962A65f3817708C449f511569B156A",
+      "address": "0x0041DB9E06580f68041eb4F2cd3E1E1C79e83F47",
       "symbol": "zBNB",
       "decimals": 18,
-      "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x8573ab917b962A65f3817708C449f511569B156A.png"
+      "chainId": 3636,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x0041DB9E06580f68041eb4F2cd3E1E1C79e83F47.png"
     },
 
     {
       "name": "MATIC",
-      "address": "0x031b7bDd404C977f871A58F67C6cc1f522Fa14A0",
+      "address": "0x2eF208d3Fea7fDb3b8c6037CA19fB6dE54712D5F",
       "symbol": "zMATIC",
       "decimals": 18,
-      "chainId": 2016,
-      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x031b7bDd404C977f871A58F67C6cc1f522Fa14A0.png"
+      "chainId": 3636,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0x2eF208d3Fea7fDb3b8c6037CA19fB6dE54712D5F.png"
     }
     
 
