@@ -23,14 +23,7 @@
       "logoURI": "https://github.com/inquisitiveScholar/dex-tokesns/blob/main/assets/0x689ADB8f7428A4914D2f6eB7377d45d2ea7038c6.png"
     },
 
-    {
-      "name": "USDC",
-      "address": "0x94703490aCA489f63FFB71C4d4Cc2E616bd8d14a",
-      "symbol": "zUSDC",
-      "decimals": 18,
-      "chainId": 3636,
-      "logoURI": "https://github.com/inquisitiveScholar/dex-tokesns/blob/main/assets/0x94703490aCA489f63FFB71C4d4Cc2E616bd8d14a.png"
-    },
+
 
     {
       "name": "USDT",
