@@ -33,7 +33,7 @@
     {
       "name": "MATIC Token",
       "symbol": "MATIC",
-      "address": "0x1852B91c4A2d817e8a479e91c1c2607E46FEE414",
+      "address": "0x240BA800BEBEF2819A0b76c889c867653E73143e",
       "chainId": 271,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
