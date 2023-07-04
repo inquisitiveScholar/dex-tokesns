@@ -26,7 +26,7 @@
       "address": "0xE5184D6B16aE42D16fBA7210277Ee6a7a23352Fd",
       "chainId": 3637,
       "decimals": 18,
-      "logoURI": "https://pancake.kiemtienonline360.com/images/coins/0x8babbb98678facc7342735486c851abd7a0d17ca.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
 
 
@@ -36,7 +36,7 @@
       "address": "0x9fa6182C041c52b714d8b402C4e358881a53067d",
       "chainId": 3637,
       "decimals": 18,
-      "logoURI": "http://dex.bitindi.org/images/coins/matic.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
     },
 
     {
@@ -45,7 +45,7 @@
       "address": "0x8694A1A789133c94aA3c95B80c852583628A93b6",
       "chainId": 3637,
       "decimals": 18,
-      "logoURI": "http://dex.bitindi.org/images/coins/bnb.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
     }
 
 
