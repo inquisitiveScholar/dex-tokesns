@@ -14,7 +14,7 @@
       "name": "EGC Token",
       "symbol": "WEGC",
       "address": "0x8a862747edE6B722d7928f75868f467b45bB0411",
-      "chainId": 3637,
+      "chainId": 271,
       "decimals": 18,
       "logoURI": "https://egcscan.com/images/egc_favicon-1487b2ecf555e41831d4aad1fdb1ac2c.png"
     },
@@ -24,7 +24,7 @@
       "name": "ETH Token",
       "symbol": "ETH",
       "address": "0xd2036A5fAdC33931B09606130563bdE28e82abbB",
-      "chainId": 3637,
+      "chainId": 271,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
@@ -34,7 +34,7 @@
       "name": "MATIC Token",
       "symbol": "MATIC",
       "address": "0x1852B91c4A2d817e8a479e91c1c2607E46FEE414",
-      "chainId": 3637,
+      "chainId": 271,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
     },
@@ -43,7 +43,7 @@
       "name": "BNB Token",
       "symbol": "BNB",
       "address": "0x6477413f054D04832B5d21D757f514b1e44EF280",
-      "chainId": 3637,
+      "chainId": 271,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
     }
