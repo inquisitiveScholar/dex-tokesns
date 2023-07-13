@@ -11,9 +11,9 @@
   "keywords": ["EGC", "default"],
   "tokens": [
     {
-      "name": "EGC Token",
-      "symbol": "WEGC",
-      "address": "0x2E565cbF87a9f2de8252c24C60bEBEE994989F30",
+      "name": "EGON Token",
+      "symbol": "WEGON",
+      "address": "0xE0a27d655485FDba465c9F68c52b59c23C838370",
       "chainId": 271,
       "decimals": 18,
       "logoURI": "https://egcscan.com/images/egc_favicon-1487b2ecf555e41831d4aad1fdb1ac2c.png"
