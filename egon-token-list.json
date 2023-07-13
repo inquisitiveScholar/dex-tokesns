@@ -13,7 +13,7 @@
     {
       "name": "EGC Token",
       "symbol": "WEGC",
-      "address": "0x8a862747edE6B722d7928f75868f467b45bB0411",
+      "address": "0x9fa6182C041c52b714d8b402C4e358881a53067d",
       "chainId": 271,
       "decimals": 18,
       "logoURI": "https://egcscan.com/images/egc_favicon-1487b2ecf555e41831d4aad1fdb1ac2c.png"
@@ -23,7 +23,7 @@
     {
       "name": "ETH Token",
       "symbol": "ETH",
-      "address": "0xd2036A5fAdC33931B09606130563bdE28e82abbB",
+      "address": "0xf6E7129F427aE7E78E870574f16aD4eA36B19d8b",
       "chainId": 271,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
@@ -33,7 +33,7 @@
     {
       "name": "MATIC Token",
       "symbol": "MATIC",
-      "address": "0x240BA800BEBEF2819A0b76c889c867653E73143e",
+      "address": "0xF7256527f97b4159E9Ad1D108927633aF6105560",
       "chainId": 271,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
@@ -42,7 +42,7 @@
     {
       "name": "BNB Token",
       "symbol": "BNB",
-      "address": "0x6477413f054D04832B5d21D757f514b1e44EF280",
+      "address": "0x9fa6182C041c52b714d8b402C4e358881a53067d",
       "chainId": 271,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
