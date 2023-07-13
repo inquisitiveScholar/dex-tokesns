@@ -7,13 +7,13 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://exchange.pancakeswap.finance/images/pancakeswap.png",
+  "logoURI": "/",
   "keywords": ["EGC", "default"],
   "tokens": [
     {
       "name": "EGC Token",
       "symbol": "WEGC",
-      "address": "0x9fa6182C041c52b714d8b402C4e358881a53067d",
+      "address": "0x2E565cbF87a9f2de8252c24C60bEBEE994989F30",
       "chainId": 271,
       "decimals": 18,
       "logoURI": "https://egcscan.com/images/egc_favicon-1487b2ecf555e41831d4aad1fdb1ac2c.png"
