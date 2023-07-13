@@ -42,7 +42,7 @@
     {
       "name": "BNB Token",
       "symbol": "BNB",
-      "address": "0x9fa6182C041c52b714d8b402C4e358881a53067d",
+      "address": "0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441",
       "chainId": 271,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
