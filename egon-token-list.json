@@ -22,7 +22,7 @@
 
     {
       "name": "ETH Token",
-      "symbol": "ETH",
+      "symbol": "ETH ECG-20",
       "address": "0xf6E7129F427aE7E78E870574f16aD4eA36B19d8b",
       "chainId": 271,
       "decimals": 18,
@@ -32,7 +32,7 @@
 
     {
       "name": "MATIC Token",
-      "symbol": "MATIC",
+      "symbol": "MATIC ECG-20",
       "address": "0xF7256527f97b4159E9Ad1D108927633aF6105560",
       "chainId": 271,
       "decimals": 18,
@@ -41,7 +41,7 @@
 
     {
       "name": "BNB Token",
-      "symbol": "BNB",
+      "symbol": "BNB ECG-20",
       "address": "0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441",
       "chainId": 271,
       "decimals": 18,
