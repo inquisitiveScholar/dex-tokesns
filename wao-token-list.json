@@ -1,1 +1,56 @@
+{
+  "name": "Tyco List",
+  "timestamp": "2023-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
 
+    {
+      "chainId": 3636,
+      "address": "0x689ADB8f7428A4914D2f6eB7377d45d2ea7038c6",
+      "name": "WTYCO",
+      "symbol": "WTYCO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x689ADB8f7428A4914D2f6eB7377d45d2ea7038c6.png"
+    },
+
+
+
+    {
+      "name": "ETH",
+      "address": "0xFaF893D2f71a3e68453c908f4236605caA848961",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 3636,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xFaF893D2f71a3e68453c908f4236605caA848961.png"
+    },
+    {
+      "name": "BNB",
+      "address": "0x0041DB9E06580f68041eb4F2cd3E1E1C79e83F47",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 3636,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x0041DB9E06580f68041eb4F2cd3E1E1C79e83F47.png"
+    },
+
+    {
+      "name": "MATIC",
+      "address": "0x2eF208d3Fea7fDb3b8c6037CA19fB6dE54712D5F",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "chainId": 3636,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x2eF208d3Fea7fDb3b8c6037CA19fB6dE54712D5F.png"
+    }
+    
+
+  ]
+}
