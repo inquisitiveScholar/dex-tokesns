@@ -39,7 +39,7 @@
       "symbol": "BNB",
       "decimals": 18,
       "chainId": 3699,
-      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x0041DB9E06580f68041eb4F2cd3E1E1C79e83F47.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
     },
 
     {
@@ -48,7 +48,7 @@
       "symbol": "MATIC",
       "decimals": 18,
       "chainId": 3699,
-      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x2eF208d3Fea7fDb3b8c6037CA19fB6dE54712D5F.png"
+      "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
     }
     
 
