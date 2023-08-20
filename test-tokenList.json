@@ -15,7 +15,7 @@
   "tokens": [
     
     {
-      "chainId": 8001,
+      "chainId": 80001,
       "address": "0x20dbDd897B6BDc568FcfFD67906ab3818C46671C",
       "name": "WMATIC",
       "symbol": "WMATIC",
