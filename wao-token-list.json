@@ -24,6 +24,16 @@
     },
 
 
+    {
+      "chainId": 3699,
+      "address": "0xE0a27d655485FDba465c9F68c52b59c23C838370",
+      "name": "SPUSDT",
+      "symbol": "SPUSDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/USDT.jpeg"
+    },
+
+
 
     {
       "name": "ETH",
