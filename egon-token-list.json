@@ -23,7 +23,7 @@
     {
       "name": "ETH Token",
       "symbol": "ETH ECG-20",
-      "address": "0xE5184D6B16aE42D16fBA7210277Ee6a7a23352Fd",
+      "address": "0x1852B91c4A2d817e8a479e91c1c2607E46FEE414",
       "chainId": 271271,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
