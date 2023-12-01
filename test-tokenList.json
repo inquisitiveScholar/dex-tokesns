@@ -15,31 +15,15 @@
   "tokens": [
     
     {
-      "chainId": 80001,
-      "address": "0x20dbDd897B6BDc568FcfFD67906ab3818C46671C",
+      "chainId": 137,
+      "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
       "name": "WMATIC",
       "symbol": "WMATIC",
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
     },
 
-    {
-      "chainId": 80001,
-      "address": "0x8aad333c3a7ad371bd26034037bb3532f5f551e1",
-      "name": "USDT",
-      "symbol": "USDT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdt.svg"
-    },
 
-    {
-      "chainId": 80001,
-      "address": "0x47C3e890870cF297aeD8d3B7F81F6fe8021a8A7D",
-      "name": "ODIN",
-      "symbol": "ODIN",
-      "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic1.png"
-    }
     
   ]
 }
