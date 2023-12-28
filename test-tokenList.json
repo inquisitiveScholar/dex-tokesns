@@ -49,7 +49,17 @@
       "symbol": "USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/usdt.png"
+    },
+
+    {
+      "chainId": 137,
+      "address": "0xaDaf0AEd648a122f7b60cD4A1138524653F8cf41",
+      "name": "ODIN",
+      "symbol": "ODIN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/odin.png"
     }
+
 
 
     
