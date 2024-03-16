@@ -12,7 +12,7 @@
   "tokens": [
     {
       "name": "EGON Token",
-      "symbol": "WEGONs",
+      "symbol": "WEGON",
       "address": "0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441",
       "chainId": 271271,
       "decimals": 18,
