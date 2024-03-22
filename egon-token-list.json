@@ -31,8 +31,38 @@
 
 
     {
+      "name": "BNB Token",
+      "symbol": "BNB ECG-20",
+      "address": "0x9fa6182C041c52b714d8b402C4e358881a53067d",
+      "chainId": 271271,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+
+    {
+      "name": "MATIC Token",
+      "symbol": "MATIC ECG-20",
+      "address": "0xe5882F80f03493f8Eaa9Ae63E8baFeaEAc979378",
+      "chainId": 271271,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+
+
+    {
       "name": "TDEX",
       "symbol": "TDEX",
+      "address": "0xE0a27d655485FDba465c9F68c52b59c23C838370",
+      "chainId": 271271,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/tdx.png"
+    },
+
+
+
+    {
+      "name": "USDT",
+      "symbol": "USDT",
       "address": "0x07B4953E32e38B0626e1f5100D2d94d3464e19Ee",
       "chainId": 271271,
       "decimals": 18,
