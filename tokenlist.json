@@ -15,8 +15,8 @@
   "tokens": [
 
     {
-      "chainId": 3636,
-      "address": "0x689ADB8f7428A4914D2f6eB7377d45d2ea7038c6",
+      "chainId": 3630,
+      "address": "0xaB60288ebed94762ed663F1e0D97aC84BECd4c00",
       "name": "WTYCO",
       "symbol": "WTYCO",
       "decimals": 18,
@@ -27,30 +27,37 @@
 
     {
       "name": "ETH",
-      "address": "0xFaF893D2f71a3e68453c908f4236605caA848961",
+      "address": "0x5cD74EbC31991Fab7aFC7EF227576E302445a555",
       "symbol": "ETH",
       "decimals": 18,
-      "chainId": 3636,
+      "chainId": 3630,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xFaF893D2f71a3e68453c908f4236605caA848961.png"
     },
     {
       "name": "BNB",
-      "address": "0x0041DB9E06580f68041eb4F2cd3E1E1C79e83F47",
+      "address": "0xD637e0c6586107a98a7eEeC91fE87Ee43C896625",
       "symbol": "BNB",
       "decimals": 18,
-      "chainId": 3636,
+      "chainId": 3630,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x0041DB9E06580f68041eb4F2cd3E1E1C79e83F47.png"
     },
 
     {
       "name": "MATIC",
-      "address": "0x2eF208d3Fea7fDb3b8c6037CA19fB6dE54712D5F",
+      "address": "0x1aA1ec9f3867fAbFb82d10596E0c9a1b9430FE67",
       "symbol": "MATIC",
       "decimals": 18,
-      "chainId": 3636,
+      "chainId": 3630,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x2eF208d3Fea7fDb3b8c6037CA19fB6dE54712D5F.png"
+    },
+        {
+      "name": "USDT",
+      "address": "0xBb451121240E25D6e6deA2E7F883aBC38C907998",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 3630,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x2eF208d3Fea7fDb3b8c6037CA19fB6dE54712D5F.png"
     }
-    
 
   ]
 }
