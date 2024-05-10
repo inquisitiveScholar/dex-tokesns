@@ -32,6 +32,25 @@
       "decimals": 18,
       "chainId": 15259,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xFaF893D2f71a3e68453c908f4236605caA848961.png"
+    },
+
+
+    {
+      "name": "BNB Token",
+      "symbol": "BNB",
+      "address": "0x292da380881a2d745D38D92a13Ede45F34338600",
+      "chainId": 15259,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
+    },
+
+    {
+      "name": "MATIC Token",
+      "symbol": "MATIC",
+      "address": "0x22d3450d13Fa5c1f3D94ecdEE64aBBD087FD1aDa",
+      "chainId": 15259,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
     }
 
 
