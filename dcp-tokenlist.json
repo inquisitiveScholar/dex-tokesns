@@ -43,7 +43,17 @@
       "chainId": 21223,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
+    },
+
+    {
+      "name": "MATIC Token",
+      "symbol": "MATIC",
+      "address": "0x6BEAcca917d7B6290c6509040356cba4D7D99899",
+      "chainId": 21223,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
     }
+
 
 
 
