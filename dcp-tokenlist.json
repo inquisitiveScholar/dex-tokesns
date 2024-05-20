@@ -17,8 +17,8 @@
     {
       "chainId": 21223,
       "address": "0x78577DBdc22eA4b3d595d3bA411fADDba30C8eeE",
-      "name": "WTAO",
-      "symbol": "WTAO",
+      "name": "WDCP",
+      "symbol": "WDCP",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x78577DBdc22eA4b3d595d3bA411fADDba30C8eeE.png"
     }
