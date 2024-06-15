@@ -21,6 +21,15 @@
       "symbol": "WMATIC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/matic.png"
+    },
+
+    {
+      "chainId": 80002,
+      "address": "0xC9d24D9ad7e8613e848e8A1FE95BF8e6683e3cf2",
+      "name": "DAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/dai.png"
     }
     
   ]
