@@ -79,6 +79,16 @@
       "chainId": 15259,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/refs/heads/main/assets/0x1342fe02616A931121cB918668c270e11BDc76F9.png"
+    },
+
+
+    {
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "address": "0x8dfD3D643DDaaED20Cb76781F7f6a28aC981D035",
+      "chainId": 15259,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/refs/heads/main/assets/0x8dfD3D643DDaaED20Cb76781F7f6a28aC981D035.png"
     }
 
 
