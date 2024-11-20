@@ -24,6 +24,15 @@
     },
 
 
+    {
+      "name": "ETIHAD",
+      "address": "0x7FA4F977320a1387065927ba1f219E3Cd4FE84af",
+      "symbol": "EHD",
+      "decimals": 18,
+      "chainId": 3630,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x7FA4F977320a1387065927ba1f219E3Cd4FE84af.jpeg"
+    },
+
 
     {
       "name": "ETH",
