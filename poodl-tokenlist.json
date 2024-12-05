@@ -71,17 +71,6 @@
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/refs/heads/main/assets/0x02598Af5445b3851E8B8414c549B458Ba1dff972.png"
     },
 
-
-    {
-      "name": "Food For All",
-      "symbol": "FOOD",
-      "address": "0xaF9fe0216F04bfd9A57aEf91Ef7897C5715D33A0",
-      "chainId": 15259,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/refs/heads/main/assets/0x1342fe02616A931121cB918668c270e11BDc76F9.png"
-    },
-
-
     {
       "name": "Shiba Inu",
       "symbol": "SHIB",
