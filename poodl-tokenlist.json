@@ -78,6 +78,16 @@
       "chainId": 15259,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/refs/heads/main/assets/0x8dfD3D643DDaaED20Cb76781F7f6a28aC981D035.png"
+    },
+
+
+    {
+      "name": "TRUMP LEGACY",
+      "symbol": "TRUMP",
+      "address": "0xCaa8bFDF65356ef981eEeb6890ADB9A44Cdfd57A",
+      "chainId": 15259,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/refs/heads/main/assets/0xCaa8bFDF65356ef981eEeb6890ADB9A44Cdfd57A.jpeg"
     }
 
 
