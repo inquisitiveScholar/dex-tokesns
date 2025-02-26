@@ -1,0 +1,56 @@
+{
+  "name": "XFER-Chain Token List",
+  "timestamp": "2023-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "",
+    "default"
+  ],
+  "tokens": [
+
+    {
+      "chainId": 28125,
+      "address": "0x0140e3f8bd26850c5FBb294187828791e5b5E24A",
+      "name": "WDAPO",
+      "symbol": "WDAPO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x0140e3f8bd26850c5FBb294187828791e5b5E24A.png"
+    },
+
+    {
+      "name": "ETH",
+      "address": "0x6067e611f187e13Eafb35a85957139D544A96364",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 28125,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xFaF893D2f71a3e68453c908f4236605caA848961.png"
+    },
+
+    {
+      "name": "BNB Token",
+      "symbol": "BNB",
+      "address": "0x54e6c728a62427de0283cfF41808Ce05eDEF47e2",
+      "chainId": 28125,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
+    },
+
+
+    {
+      "name": "Polygon Token",
+      "symbol": "Pol",
+      "address": "0xC31cDf13373529246E6db4f17F1d96CBB0D5CD11",
+      "chainId": 28125,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
+    }
+
+
+  ]
+}
