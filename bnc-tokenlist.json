@@ -1,0 +1,56 @@
+{
+  "name": "BNC Token List",
+  "timestamp": "2023-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "",
+    "default"
+  ],
+  "tokens": [
+
+    {
+      "chainId": 24225,
+      "address": "0x6dB98711024E018225a235a4777febfab94Ae9F2",
+      "name": "WBNC",
+      "symbol": "WBNC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x6dB98711024E018225a235a4777febfab94Ae9F2.png"
+    },
+
+    {
+      "name": "ETH",
+      "address": "0x28071F7F8B37f7eA824edaacB9FdFc3008d31473",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 24225,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xFaF893D2f71a3e68453c908f4236605caA848961.png"
+    },
+
+    {
+      "name": "BNB Token",
+      "symbol": "BNB",
+      "address": "0xede62eB263FD0e72AC07Cb9c293756453711dD02",
+      "chainId": 24225,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
+    },
+
+
+    {
+      "name": "Polygon Token",
+      "symbol": "Pol",
+      "address": "0x30ed459ab260F2917d8D7E84aF286f4A9a9F5a0E",
+      "chainId": 24225,
+      "decimals": 18,
+      "logoURI": "https://images.seeklogo.com/logo-png/44/1/polygon-matic-logo-png_seeklogo-444501.png"
+    }
+
+
+  ]
+}
