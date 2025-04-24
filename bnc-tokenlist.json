@@ -49,7 +49,17 @@
       "chainId": 24225,
       "decimals": 18,
       "logoURI": "https://images.seeklogo.com/logo-png/44/1/polygon-matic-logo-png_seeklogo-444501.png"
-    }
+    },
+
+
+    {
+      "name": "USDT Token",
+      "symbol": "USDT",
+      "address": "0xE6d386FDa2De744F2A22a3ff10aE589b01fcB0E1",
+      "chainId": 24225,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/usdt.png"
+    },
 
 
   ]
