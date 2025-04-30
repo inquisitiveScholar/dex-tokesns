@@ -43,6 +43,16 @@
 
 
     {
+      "name": "USDT Token",
+      "symbol": "USDT",
+      "address": "0x67e0e28980F43DD28AFe6a7097deddF3F2A53d87",
+      "chainId": 28125,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/usdt.png"
+    },
+
+
+    {
       "name": "Polygon Token",
       "symbol": "Pol",
       "address": "0xC31cDf13373529246E6db4f17F1d96CBB0D5CD11",
