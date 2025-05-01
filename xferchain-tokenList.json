@@ -25,7 +25,7 @@
 
     {
       "name": "ETH",
-      "address": "0x6067e611f187e13Eafb35a85957139D544A96364",
+      "address": "0x45d57e9eD8559678f49d947a42755Cef900EaB83",
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 28125,
@@ -35,7 +35,7 @@
     {
       "name": "BNB Token",
       "symbol": "BNB",
-      "address": "0x54e6c728a62427de0283cfF41808Ce05eDEF47e2",
+      "address": "0x3E891C82816B96e71D2330C99b44Cc25bde91C35",
       "chainId": 28125,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
@@ -55,7 +55,7 @@
     {
       "name": "Polygon Token",
       "symbol": "Pol",
-      "address": "0xC31cDf13373529246E6db4f17F1d96CBB0D5CD11",
+      "address": "0xdF91F1a2B6F9140970BA621b446821032EE136bF",
       "chainId": 28125,
       "decimals": 18,
       "logoURI": "https://images.seeklogo.com/logo-png/44/1/polygon-matic-logo-png_seeklogo-444501.png"
