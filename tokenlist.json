@@ -57,6 +57,15 @@
       "symbol": "MATIC",
       "decimals": 18,
       "chainId": 3630,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x7B67a43CAF955057f5903459fc359a57094e6B8C.png"
+    },
+
+    {
+      "name": "FLT COIN",
+      "address": "0xE670C0A03f96B713207A31BA505aeFC9F5C325d2",
+      "symbol": "FLT",
+      "decimals": 18,
+      "chainId": 3630,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x2eF208d3Fea7fDb3b8c6037CA19fB6dE54712D5F.png"
     },
         {
