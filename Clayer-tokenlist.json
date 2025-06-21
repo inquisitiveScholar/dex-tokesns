@@ -1,0 +1,25 @@
+{
+  "name": "Circlelayer LIST",
+  "timestamp": "2023-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "CLAYER",
+      "address": "0x21DC705dDc28793B7491E6DDECa001B0FBA3e2aF",
+      "symbol": "CLAYER",
+      "decimals": 18,
+      "chainId": 2016,
+      "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xF6E0d6aeB023b00bdcb74fdD839cA3e753386908.png"
+    }
+  ]
+}
