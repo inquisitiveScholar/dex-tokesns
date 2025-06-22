@@ -14,8 +14,8 @@
   ],
   "tokens": [
     {
-      "name": "WCLAYER",
-      "address": "0x21DC705dDc28793B7491E6DDECa001B0FBA3e2aF",
+      "name": "Wrapped CLAYER",
+      "address": "0x7708Af4E9167eC0B7ADfaDBB4eF50ae88B512961",
       "symbol": "WCLAYER",
       "decimals": 18,
       "chainId": 28525,
