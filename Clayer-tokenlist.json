@@ -28,7 +28,7 @@
       "address": "0x45d57e9eD8559678f49d947a42755Cef900EaB83",
       "symbol": "ETH",
       "decimals": 18,
-      "chainId": 28125,
+      "chainId": 28525,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xFaF893D2f71a3e68453c908f4236605caA848961.png"
     },
 
@@ -36,7 +36,7 @@
       "name": "BNB Token",
       "symbol": "BNB",
       "address": "0x3E891C82816B96e71D2330C99b44Cc25bde91C35",
-      "chainId": 28125,
+      "chainId": 28525,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
     },
@@ -46,7 +46,7 @@
       "name": "USDT Token",
       "symbol": "USDT",
       "address": "0x67e0e28980F43DD28AFe6a7097deddF3F2A53d87",
-      "chainId": 28125,
+      "chainId": 28525,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/usdt.png"
     },
@@ -56,7 +56,7 @@
       "name": "Polygon Token",
       "symbol": "Pol",
       "address": "0xdF91F1a2B6F9140970BA621b446821032EE136bF",
-      "chainId": 28125,
+      "chainId": 28525,
       "decimals": 18,
       "logoURI": "https://images.seeklogo.com/logo-png/44/1/polygon-matic-logo-png_seeklogo-444501.png"
     }
