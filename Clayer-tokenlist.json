@@ -13,6 +13,7 @@
     "default"
   ],
   "tokens": [
+
     {
       "name": "Wrapped CLAYER",
       "address": "0x7708Af4E9167eC0B7ADfaDBB4eF50ae88B512961",
@@ -20,6 +21,26 @@
       "decimals": 18,
       "chainId": 28525,
       "logoURI": "https://raw.githubusercontent.com/MNZChain/DEX-Assets/main/assets/0xF6E0d6aeB023b00bdcb74fdD839cA3e753386908.png"
+    },
+
+    {
+      "name": "ETH",
+      "address": "0x34777CB2BCEF7873748B3dc78caAAf5d1C57373A",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 28525,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xFaF893D2f71a3e68453c908f4236605caA848961.png"
+    },
+
+    {
+      "name": "BNB Token",
+      "symbol": "BNB",
+      "address": "0xc8a04C939aF1B0b919a58CEB612a4713c3913181",
+      "chainId": 28525,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
     }
+
+
   ]
 }
