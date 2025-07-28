@@ -97,6 +97,15 @@
       "chainId": 15259,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/refs/heads/main/assets/poodl_classic.png"
+    },
+
+    {
+      "name": "BULL ON STEROIDS",
+      "symbol": "BOSS",
+      "address": "0x6ecb5727c57D5Db6E38296A29C2f3ec860CdD32F",
+      "chainId": 15259,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/refs/heads/main/assets/0x6ecb5727c57D5Db6E38296A29C2f3ec860CdD32F.png"
     }
 
 
