@@ -65,6 +65,45 @@
 
 
     {
+      "name": "Pepe On Poodl",
+      "symbol": "PEPE",
+      "address": "0x02598Af5445b3851E8B8414c549B458Ba1dff972",
+      "chainId": 15259,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/refs/heads/main/assets/0x02598Af5445b3851E8B8414c549B458Ba1dff972.png"
+    },
+
+    {
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "address": "0x8dfD3D643DDaaED20Cb76781F7f6a28aC981D035",
+      "chainId": 15259,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/refs/heads/main/assets/0x8dfD3D643DDaaED20Cb76781F7f6a28aC981D035.png"
+    },
+
+
+    {
+      "name": "TRUMP LEGACY",
+      "symbol": "TRUMP",
+      "address": "0xCaa8bFDF65356ef981eEeb6890ADB9A44Cdfd57A",
+      "chainId": 15259,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/refs/heads/main/assets/0xCaa8bFDF65356ef981eEeb6890ADB9A44Cdfd57A.jpeg"
+    },
+
+    {
+      "name": "Poodl Classic",
+      "symbol": "Poodl",
+      "address": "0xC1a512840D31c64FB1ca13Fd702c697EEb419925",
+      "chainId": 15259,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/refs/heads/main/assets/poodl_classic.png"
+    },
+
+
+
+    {
       "name": "BULL ON STEROIDS",
       "symbol": "BOSS",
       "address": "0x0962506028dB003C158714cff1db8BC5B3AAE317",
