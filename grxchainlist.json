@@ -1,0 +1,47 @@
+{
+  "name": "GrxChain Token List",
+  "timestamp": "2023-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+
+    {
+      "chainId": 1110,
+      "address": "0x45C7287F897B3A79Cd3f6e4F14B4CE568f023bD5",
+      "name": "WGRX",
+      "symbol": "WGRX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xf7EBAD581d13f73e7b85AaFdC2F70c6Ab10d7f31.png"
+    },
+
+    {
+      "name": "TST",
+      "address": "0xb2c15A6f8eB7d87acc2D5edfb4300cf5fa620081",
+      "symbol": "TST",
+      "decimals": 18,
+      "chainId": 1110,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0xFaF893D2f71a3e68453c908f4236605caA848961.png"
+    },
+
+
+    {
+      "name": "MillionTOken ",
+      "symbol": "MT",
+      "address": "0x45a9860DbF7A8cC75a85aa71BE5E76c458Fb7590",
+      "chainId": 1110,
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
+    }
+
+
+  ]
+}
