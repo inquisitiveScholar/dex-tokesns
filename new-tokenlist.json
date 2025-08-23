@@ -1,0 +1,34 @@
+{
+  "tokens": [
+    {
+      "name": "MegaToken",
+      "symbol": "MT",
+      "address": "0xD0810E79A5CfadCC2f8c18cB36ee5D43c08DcBB8"
+    },
+    {
+      "name": "FutureToken",
+      "symbol": "FT",
+      "address": "0x74A1C7E2E128F955bF9e0F6d527a1a52a376f789"
+    },
+    {
+      "name": "NovaToken",
+      "symbol": "NT",
+      "address": "0x6AF37DC5B9A27c91C08F434Ebd4376EF641eE822"
+    },
+    {
+      "name": "VexaToken",
+      "symbol": "VXA",
+      "address": "0x4d824Ec98FBb42671899Aa506977Ba483BF55663"
+    },
+    {
+      "name": "NexaToken",
+      "symbol": "NXT",
+      "address": "0x2d08BD7ceDF19a4C05E1ef8B50F6F2BA8186e3A5"
+    },
+    {
+      "name": "AxionToken",
+      "symbol": "AXN",
+      "address": "0x63bE6b3912B2Fb6AC98F4E81F5D79DcdA4ea2c0d"
+    }
+  ]
+}
