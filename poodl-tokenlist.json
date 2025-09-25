@@ -110,6 +110,15 @@
       "chainId": 15259,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/refs/heads/main/assets/0x6ecb5727c57D5Db6E38296A29C2f3ec860CdD32F.png"
+    },
+
+    {
+      "name": "DIGITAL GOLD",
+      "symbol": "GOLD",
+      "address": "0x2aB716338cF37B54B478E2898F7DBD75061C414d",
+      "chainId": 15259,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x2aB716338cF37B54B478E2898F7DBD75061C414d.png"
     }
 
 
