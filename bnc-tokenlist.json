@@ -59,6 +59,15 @@
       "chainId": 24225,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/usdt.png"
+    },
+
+    {
+      "name": "DIGITAL GOLD",
+      "symbol": "GOLD",
+      "address": "0x2aB716338cF37B54B478E2898F7DBD75061C414d",
+      "chainId": 24225,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x2aB716338cF37B54B478E2898F7DBD75061C414d.png"
     }
 
 
