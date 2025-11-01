@@ -27,7 +27,7 @@
     {
       "name": "USDT Token",
       "symbol": "USDT",
-      "address": "0x2F4632ABAd26A1FF9212a76597fb3c3d8539E275",
+      "address": "0x1d3bc9646d126D379b4da4d71c8a4fa6b830Dd20",
       "chainId": 1110,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/usdt.png"
