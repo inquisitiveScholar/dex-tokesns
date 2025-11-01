@@ -29,7 +29,7 @@
       "symbol": "USDT",
       "address": "0x1d3bc9646d126D379b4da4d71c8a4fa6b830Dd20",
       "chainId": 1110,
-      "decimals": 18,
+      "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/usdt.png"
     }
 
