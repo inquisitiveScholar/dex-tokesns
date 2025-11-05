@@ -27,12 +27,31 @@
     {
       "name": "USDT Token",
       "symbol": "USDT",
-      "address": "0x1d3bc9646d126D379b4da4d71c8a4fa6b830Dd20",
+      "address": "0x173462F5eb7CA0D1ab6aaea846fEFe85A28029E2",
       "chainId": 1110,
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/usdt.png"
-    }
+    },
 
+
+    {
+      "name": "BTC pegged",
+      "symbol": "BTC",
+      "address": "0x2F4632ABAd26A1FF9212a76597fb3c3d8539E275",
+      "chainId": 1110,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x2F4632ABAd26A1FF9212a76597fb3c3d8539E275.png"
+    },
+
+    
+    {
+      "name": "ETH Pegged",
+      "symbol": "ETH",
+      "address": "0x02D129c8A26839c814925eE0f1D320F63114E1FE",
+      "chainId": 1110,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x02D129c8A26839c814925eE0f1D320F63114E1FE.png"
+    }
 
 
   ]
