@@ -1,0 +1,59 @@
+{
+  "name": "SCAI LIST",
+  "timestamp": "2023-01-21T23:57:10.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+
+  },
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": [
+    "scai",
+    "default"
+  ],
+  "tokens": [
+    {
+      "chainId": 34,
+      "address": "0xE6D5a6f4064CFA88E07f038Ad94d852929ccF4FB",
+      "name": "WhenCMC",
+      "symbol": "WCMC",
+      "decimals": 18,
+      "logoURI": "https://scai.exchange/static/media/scai-icon-black-white.png"
+    },
+    {
+      "chainId": 34,
+      "address": "0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441",
+      "name": "WSCAI",
+      "symbol": "WSCAI",
+      "decimals": 18,
+      "logoURI": "https://scai.exchange/static/media/scai-icon-black-white.png"
+    },
+    {
+      "chainId": 34,
+      "address": "0x6EDc486F69B58937e2717a2Ac203055b504CD141",
+      "name": "Brand Marvels Governance",
+      "symbol": "BMG",
+      "decimals": 18,
+      "logoURI": "https://scai.exchange/static/media/logo-brand-marvels-transparent-6.png"
+    },
+    {
+      "chainId": 34,
+      "address": "0xCFe638291B85aDA1F749A061F3cAaBBEB2119103",
+      "name": "ScaiDoge",
+      "symbol": "SDOG",
+      "decimals": 18,
+      "logoURI": "https://scai.exchange/static/media/scaidoge-icon.png"
+    },
+    {
+      "chainId": 34,
+      "address": "0x8EA72e5cF9040f73E60e67F24F1a371FC8d1aF15",
+      "name": "SECURE STASH",
+      "symbol": "SST",
+      "decimals": 18,
+      "logoURI": "https://scai.exchange/static/media/securestach-favicon.jpg"
+    }
+  ]
+}
