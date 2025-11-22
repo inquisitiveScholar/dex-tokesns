@@ -39,7 +39,7 @@
       "symbol": "BTC",
       "address": "0x2F4632ABAd26A1FF9212a76597fb3c3d8539E275",
       "chainId": 1110,
-      "decimals": 18,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x2F4632ABAd26A1FF9212a76597fb3c3d8539E275.png"
     },
 
