@@ -6,14 +6,9 @@
     "minor": 0,
     "patch": 0
   },
-  "tags": {
-
-  },
+  "tags": {},
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
-  "keywords": [
-    "scai",
-    "default"
-  ],
+  "keywords": ["scai", "default"],
   "tokens": [
     {
       "chainId": 34,
@@ -54,6 +49,46 @@
       "symbol": "SST",
       "decimals": 18,
       "logoURI": "https://scai.exchange/static/media/securestach-favicon.jpg"
+    },
+    {
+      "chainId": 34,
+      "address": "0x9e894D33DC2be54a78aF96B954ae2B9796Ca48Ee",
+      "name": "Satoshis",
+      "symbol": "SATS",
+      "decimals": 18,
+      "logoURI": "https://securechain.ai/img/token-icons/SATS.png"
+    },
+    {
+      "chainId": 34,
+      "address": "0x2AF0D4c5Aea4cf7f47D4E761952210FBEB638a94",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://securechain.ai/img/token-icons/ETH.png"
+    },
+    {
+      "chainId": 34,
+      "address": "0xD9119384eDC6422446ce3cba048c8CED406f21f4",
+      "name": "Binance Coin",
+      "symbol": "BNB",
+      "decimals": 18,
+      "logoURI": "https://securechain.ai/img/token-icons/BNB.png"
+    },
+    {
+      "chainId": 34,
+      "address": "0x429c7e4594b8f1e25e4FDbC0BbEc873441594E8b",
+      "name": "Polygon",
+      "symbol": "POL",
+      "decimals": 18,
+      "logoURI": "https://securechain.ai/img/token-icons/POL.png"
+    },
+    {
+      "chainId": 34,
+      "address": "0x807d304B8e04d709aD86AB49F89Fec4282715D0e",
+      "name": "Avalanche",
+      "symbol": "AVAX",
+      "decimals": 18,
+      "logoURI": "https://securechain.ai/img/token-icons/AVAX.png"
     }
   ]
 }
