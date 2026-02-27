@@ -51,6 +51,16 @@
       "chainId": 1110,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/main/assets/0x02D129c8A26839c814925eE0f1D320F63114E1FE.png"
+    },
+
+
+    {
+      "name": "Safehouse",
+      "symbol": "SAFE",
+      "address": "0x6Ab7611477f3F73B05FFe66791c5714F6a2f9b4F",
+      "chainId": 1110,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/inquisitiveScholar/dex-tokesns/refs/heads/main/assets/0x6Ab7611477f3F73B05FFe66791c5714F6a2f9b4F.jpg"
     }
 
 
